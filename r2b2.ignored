@@ -1,0 +1,6 @@
+collada_parser
+collada_urdf
+joint_state_publisher
+kdl_parser_py
+urdf_parser_plugin
+
