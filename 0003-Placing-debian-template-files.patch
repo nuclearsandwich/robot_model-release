@@ -1,4 +1,4 @@
-From 56fc59d3cde218be7944ae50eff0be489c57535e Mon Sep 17 00:00:00 2001
+From 71fcd7bd467405924a6219d7ff1b757eacf019e8 Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Steven!=20Ragnar=C3=B6k?= <steven@nuclearsandwich.com>
 Date: Mon, 26 Jun 2017 12:46:06 -0400
 Subject: [PATCH 3/7] Placing debian template files

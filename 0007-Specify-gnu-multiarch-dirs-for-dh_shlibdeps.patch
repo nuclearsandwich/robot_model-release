@@ -1,4 +1,4 @@
-From 437192f2d182397399e651e49f77658634e29365 Mon Sep 17 00:00:00 2001
+From dac1d5f0b7daacd1e5f7ba1636a340825252343f Mon Sep 17 00:00:00 2001
 From: =?UTF-8?q?Steven!=20Ragnaro=CC=88k?= <steven@nuclearsandwich.com>
 Date: Sun, 25 Jun 2017 17:10:21 -0700
 Subject: [PATCH 7/7] Specify gnu multiarch dirs for dh_shlibdeps.
